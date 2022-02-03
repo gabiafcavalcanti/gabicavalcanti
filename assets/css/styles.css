@@ -1,0 +1,28 @@
+.ugh {
+  background: linear-gradient(rgba(255,255,255,0) 0%, rgba(0,0,0,0.67) 100%), url("../../assets/img/ugh2.png");
+  height: 525px;
+}
+
+.ugh {
+  background: linear-gradient(rgba(255,255,255,0) 0%, rgba(0,0,0,0.67) 100%), url("../../assets/img/app.png");
+  height: 525px;
+}
+
+@media (max-width: 300px) {
+  .ugh {
+    background: linear-gradient(rgba(255,255,255,0) 0%, rgba(0,0,0,0.67) 100%), url("../../assets/img/app.png");
+    height: 525px;
+  }
+}
+
+@media (max-width: 300px) {
+  .ugh {
+    background: linear-gradient(rgba(255,255,255,0) 0%, rgba(0,0,0,0.67) 100%), url("../../assets/img/ugh2.png");
+    height: 525px;
+  }
+}
+
+.ugh {
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
